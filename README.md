@@ -1,34 +1,34 @@
 # SHOW
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\1.png)
+![1](.\imgs\1.png)
 
 
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\2.png)
+![1](.\imgs\2.png)
 
 
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\3.png)
+![1](.\imgs\3.png)
 
 
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\4.png)
+![1](.\imgs\4.png)
 
 
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\5.png)
-
-
-
-
-
-![1](E:\nodejs测试\MyVue\atguigu\imgs\6.png)
+![1](.\imgs\5.png)
 
 
 
 
 
-![1](E:\nodejs测试\MyVue\atguigu\imgs\7.png)
+![1](.\imgs\6.png)
+
+
+
+
+
+![1](.\imgs\7.png)
 
 
 
